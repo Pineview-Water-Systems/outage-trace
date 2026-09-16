@@ -1,0 +1,22 @@
+{
+  "name": "valve-outage-trace",
+  "label": "Valve Outage Trace",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.21.0",
+  "author": "Pineview Water",
+  "description": "Click a gate valve to see what loses supply if it is closed, or click a pipe to see which valves isolate it and what goes out. Answers come from the nightly Valve Outage Lookup tables built from the Utility Network.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "supportAutoSize": true
+  },
+  "dependency": "jimu-arcgis",
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 360,
+    "height": 420
+  }
+}

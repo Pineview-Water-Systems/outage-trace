@@ -1,0 +1,22 @@
+{
+  "1779123404642.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1779123404642.png",
+    "properties": {
+      "filename": "1779123404642.png",
+      "originalName": "water-meter.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1779123404642.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1780411620672.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1780411620672.png",
+    "properties": {
+      "filename": "1780411620672.png",
+      "originalName": "loading-arrow.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1780411620672.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  }
+}
